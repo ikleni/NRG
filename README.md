@@ -1,4 +1,4 @@
-# Researcher
+# Yale Networks Reading Group
 
 ### [Demo Website](http://ankitsultana.com/researcher)
 
