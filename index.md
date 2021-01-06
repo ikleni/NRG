@@ -21,3 +21,12 @@ Each meeting will be a ~50min presentation of a paper from the reading list; ~10
 ## Schedule
 
 The slides of our meetings are uploaded below. Also, below you can view a tentative schedule of our future meetings. Feel free to send an email if you wish to participate! 
+
+
+**First meeting - January, 18 : TBA**
+
+TBA
+
+**Second meeting - February, 1 : TBA**
+
+TBA
