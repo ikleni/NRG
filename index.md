@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About
+## Intro
 
 <img class="profile-picture" src="Yale_logo.jpg">
 
