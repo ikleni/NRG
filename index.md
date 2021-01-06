@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="Yale_logo.jpg">
 
 Hi! 
-<div style="text-align: justify"> 
+
 We are organizing a reading group on Network Econometrics at Yale. This is a relatively novel field within econometrics and we are eager to learn more about it. Our goal is to understand some of the recent literature and obtain an understanding of where this literature is going.
 <br/>  <br/>
 
