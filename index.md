@@ -14,7 +14,7 @@ To do so we have created a [reading list](https://ikleni.github.io/researcher/Ne
 
 ## Organisational Details
 
-We plan to meet bi-weekly on Mondays at 15:00 New York in **Zoom**. Meetings links will be provided via **Yale Econometrics mailing list**. 
+We plan to meet bi-weekly on Mondays at **15:00 New York** on **Zoom**. Meetings links will be provided via **Yale Econometrics mailing list**. 
 
 Each meeting will be a ~50min presentation of a paper from the reading list; ~10-20 min after the presentation will be devoted for discussion. Sometimes there will be guest lectures during which professors involved in an active research in Network Econometrics will discuss their work.
 
