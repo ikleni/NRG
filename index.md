@@ -30,3 +30,15 @@ TBA
 **Second meeting - February, 1 : TBA**
 
 TBA
+
+**Third meeting - January, 18 : TBA**
+
+TBA
+
+**Fourth meeting - February, 15 : TBA**
+
+TBA
+
+**Fifth meeting - March, 1 : TBA**
+
+TBA
