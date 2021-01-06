@@ -8,7 +8,8 @@ layout: default
 
 Hi! 
 
-We are organizing a reading group on Network Econometrics. This is a relatively novel field within econometrics and we are eager to learn more about it. Our goal is to understand some of the recent literature and obtain an understanding of where this literature is going. In the pursuit of this goal we have created a [reading list](https://ikleni.github.io/researcher/Networks%20RG_Winter%202021.pdf), which very broadly covers many topics in Network Econometrics. We will not manage to cover all of those papers, but hope to go over many of them.
+We are organizing a reading group on Network Econometrics. This is a relatively novel field within econometrics and we are eager to learn more about it. Our goal is to understand some of the recent literature and obtain an understanding of where this literature is going.
+To do so we have created a [reading list](https://ikleni.github.io/researcher/Networks%20RG_Winter%202021.pdf), which very broadly covers many topics in Network Econometrics. We will not manage to cover all of those papers, but hope to go over many of them.
 
 ## Organisational Details
 
