@@ -12,7 +12,7 @@ We are organizing a reading group on Network Econometrics. This is a relatively 
 
 To do so we have created a [reading list](https://ikleni.github.io/researcher/Networks%20RG_Winter%202021.pdf), which very broadly covers many topics in Network Econometrics. We will not manage to cover all of those papers, but hope to go over many of them.
 
-## Organisational Details
+## Organizational Details
 
 We plan to meet bi-weekly on Mondays at **15:00 New York** on **Zoom**. Meetings links will be provided via **Yale Econometrics mailing list**. 
 
