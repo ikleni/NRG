@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
+ - name: "Reading List"
    link: "Networks RG_Winter 2021.pdf"
  - name: "Contact"
    link: "contact"
