@@ -39,6 +39,3 @@ TBA
 
 TBA
 
-**Fifth meeting - March, 1 : TBA**
-
-TBA
