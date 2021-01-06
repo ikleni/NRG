@@ -32,11 +32,11 @@ TBA
 
 TBA
 
-**Third meeting - January, 18 : TBA**
+**Third meeting - February, 15 : TBA**
 
 TBA
 
-**Fourth meeting - February, 15 : TBA**
+**Fourth meeting - March, 1 : TBA**
 
 TBA
 
