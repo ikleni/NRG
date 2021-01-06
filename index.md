@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## About Me
+## About
 
 <img class="profile-picture" src="Yale_logo.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+We are organizing a reading group on Network Econometrics. This is a relatively novel field within econometrics and we are eager to learn more about it. Our goal is to understand some of the recent literature and obtain an understanding of where this literature is going. In the pursuit of this goal we have created a reading list, which very broadly covers many topics in Network Econometrics. We will not manage to cover all of those papers, but hope to go over many of them.
 
 ## Research Interest
 
