@@ -1,6 +1,6 @@
 title: Networks Reading Group 2021
 url: "https://ankitsultana.com"
-baseurl: "/Networks"
+baseurl: "/NetworksRG"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/Networks/"
+   link: "/NetworksRG/"
  - name: "Reading List"
    link: "Networks RG_Winter 2021.pdf"
  - name: "Contact"
