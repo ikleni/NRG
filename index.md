@@ -19,24 +19,3 @@ We plan to meet bi-weekly on Mondays at **15:00 New York** on **Zoom**. Meetings
 
 Each meeting will be a ~50min presentation of a paper from the reading list; ~10-20 min after the presentation will be devoted for discussion. Sometimes there will be guest lectures during which professors involved in an active research in Network Econometrics will discuss their work.
 
-## Schedule
-
-
-The slides of our meetings are uploaded below. Also, below you can view a tentative schedule of our future meetings. 
-
-**First meeting - January, 18 : TBA**
-
-TBA
-
-**Second meeting - February, 1 : TBA**
-
-TBA
-
-**Third meeting - February, 15 : TBA**
-
-TBA
-
-**Fourth meeting - March, 1 : TBA**
-
-TBA
-
